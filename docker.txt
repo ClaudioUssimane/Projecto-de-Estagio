@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+
+docker run --name mailpit -p 1025:1025 -p 8025:8025 axllent/mailpit
+
+//Link
+http://localhost:8025/
